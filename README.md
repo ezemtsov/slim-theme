@@ -1,1 +1,1 @@
-# slim-theme
+# my slim theme
